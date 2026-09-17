@@ -51,15 +51,43 @@ L'Agence ne demande pas deux films institutionnels de plus sur des filières d'a
 
 ## Notre positionnement budgétaire
 
-Premier chiffrage fondé sur une équipe complète de fiction (réalisateur, 1er assistant réal, cadreur, ingé son, machiniste, chef électricien, régie — 7 postes, 2 jours de tournage, kit lourd/multicam) : **~51 200 € HT / ~61 460 € TTC**, très au-dessus des 40 000 € TTC annoncés — écart de -21 459 €, non tenable.
+À la demande des OPS (suite aux warnings sur ce dossier), le chiffrage est désormais posé sous **deux scénarios officiels et comparables**, ligne à ligne sur la grille TJM complète (détail dans `03_BUDGET.xlsx`, onglets CYRCE_A/BIOT2_A et CYRCE_B/BIOT2_B) :
 
-**Scénario resserré retenu** : équipe de tournage à 4 postes (réalisateur, cadreur — qui assure aussi la lumière simple —, ingé son, régie), tournage ramené à 1,5 jour, kit de tournage intermédiaire plutôt que lourd/multicam. Cohérent avec des décors lumineux naturels (bureaux, coworking) qui ne demandent pas de dispositif lumière lourd. Chiffrage : **~29 968 € HT / ~35 962 € TTC**, soit une marge de **+4 038 €** face à l'enveloppe client — cette fois une vraie respiration, pas un calcul à l'euro près.
+| | **Scénario A — Tarifs internes** | **Scénario B — Contrainte budget AO** |
+|---|---|---|
+| Équipe tournage | 8 postes (Réal, 1er assistant réal, Cadreur, Ingé son, Machiniste, Chef électricien, Régie, **Maquilleuse/Styliste**) | 4 postes (Réal, Cadreur — assure aussi la lumière simple —, Ingé son, Régie) |
+| Durée tournage | 2 jours par film | 1,5 jour par film |
+| Kit tournage | Lourd / multicam (1 500 €/j) | Intermédiaire (700 €/j) |
+| **Total (2 films) HT** | **53 665 €** | **31 620 €** |
+| **Total (2 films) TTC** | **64 398 €** | **37 944 €** |
+| Vs enveloppe client (40 000 € TTC) | +24 398 € au-dessus | **marge de +2 056 €** |
 
-Ce n'est pas un tarif d'appel : c'est un scénario de production délibérément resserré, assumé comme tel, pas une sous-estimation cachée.
+**Écart A → B — le risque / manque à gagner demandé par les OPS** : **22 045 € HT / 26 454 € TTC**, soit ~41% du coût réel en conditions standards. C'est la mesure du renoncement si on retient le Scénario B pour tenir l'enveloppe : on absorbe cet écart plutôt que de le facturer, en échange du marché.
+
+Une **maquilleuse/styliste** a été ajoutée au Scénario A (équipe complète) — pas au Scénario B, qui reste sans ce poste dédié : **400 €/j** (TJM freelance au-dessus du minimum conventionnel CCPA, 155-250 €/j en film institutionnel/TV), soit 800 € pour 2 jours par film, plus un **forfait fournitures maquillage/coiffure de 80 €** (produits, accessoires). La garde-robe n'est pas chiffrée séparément : on pioche dans les vêtements personnels des comédiens, pas de costume à louer ou acheter. L'ajout de ce poste porte l'équipe du Scénario A à 8 personnes, ce qui augmente d'autant les postes déplacement (transport/hébergement/repas), désormais calculés sur 8 pers. au lieu de 7.
+
+Les frais de déplacement sont désormais décomposés en trois postes sourcés séparément, sur la base d'**au moins 2 nuits sur place** (une seule nuit était trop courte pour un tournage de 1,5 à 2 jours tant que la ville normande précise n'est pas arrêtée) :
+- **Transport aller-retour** : 90 €/pers (estimation trajet Paris-Normandie)
+- **Hébergement** : 95 €/nuit/pers × 2 nuits
+- **Repas (per diem)** : 40 €/jour/pers × 3 jours (barème URSSAF, base 2 repas/jour), sur J-1 arrivée + 2 jours pleins
+
+Soit, par scénario : Scénario B (4 pers.) → 360 € transport + 760 € hébergement + 480 € repas = **1 600 €** ; Scénario A (8 pers.) → 720 € + 1 520 € + 960 € = **3 200 €**.
+
+Un **kit lumière 3 points (LED, softbox, pieds)** est **indispensable** sur les deux scénarios, quelle que soit la réponse de l'Agence sur la compatibilité lumière naturelle de BIOT2 — configuration légère, pas de dispositif studio lourd : **200 €/j**, soit 300 € pour le Scénario B (1,5j) et 400 € pour le Scénario A (2j), par film.
+
+Le **TJM comédien est ramené à 534 €/j** — le plancher conventionnel de référence pour un tournage "publicité & contenus de marque" (grilles syndicales 2025), sans marge au-dessus. Ce chiffrage est désormais tendu au minimum légal, pas confortable : à ne pas resserrer davantage sans risquer un contrat sous le minimum.
+
+⚠️ **Le Scénario B reste inchangé par cet ajout** (marge toujours +2 056 €) — la maquilleuse/styliste n'est budgétée que dans le Scénario A. C'est cohérent avec la logique du Scénario B : une équipe resserrée qui absorbe les tâches annexes (comme la lumière côté cadreur), pas une équipe complète avec postes spécialisés.
+
+*(Ce chiffrage affine et remplace l'estimation exploratoire ~51 200 €/61 460 € esquissée en session de travail — le Scénario A est désormais construit poste par poste sur la grille TJM complète BPU IDFM, pas estimé à l'œil.)*
+
+**Recommandation** : le Scénario B reste notre base de réponse — c'est lui qui tient le budget et qui rend le marché jouable. Le Scénario A n'est pas une option de réponse, c'est la mesure du risque à donner aux OPS pour qu'ils arbitrent en connaissance de cause (marge commerciale à prévoir en conséquence, ou acceptation du manque à gagner comme coût d'entrée sur ce client).
+
+Le scénario resserré n'est pas un tarif d'appel : c'est un scénario de production délibérément resserré, assumé comme tel, pas une sous-estimation cachée.
 
 ## Ce que ce resserrement implique
 
-- Pas de 1er assistant réalisateur ni de chef électricien dédiés : le cadreur absorbe la gestion lumière simple, la régie absorbe l'assistanat de plateau — viable pour des décors à lumière naturelle, plus tendu si les salles blanches/labos de BIOT2 demandent un éclairage technique plus complexe qu'anticipé
+- Pas de 1er assistant réalisateur ni de chef électricien dédiés : le cadreur absorbe la gestion lumière (désormais outillé d'un kit 3 points, voir Positionnement budgétaire), la régie absorbe l'assistanat de plateau — un kit léger reste plus tendu qu'une équipe lumière dédiée si les salles blanches/labos de BIOT2 demandent un dispositif technique plus complexe qu'un 3 points ne peut couvrir
 - Tournage 1,5 jour au lieu de 2 : moins de marge pour les aléas de plateau (d'où l'importance de la provision imprévus à 5%, déjà intégrée)
 - Kit intermédiaire (700 €/j) plutôt que lourd/multicam (1 500 €/j) : cohérent avec un tournage caméra unique, pas multicam
 
@@ -70,4 +98,4 @@ Ce n'est pas un tarif d'appel : c'est un scénario de production délibérément
 
 ## Recommandation de posture
 
-**Go sous conditions** : viable sur la base du scénario resserré (voir Positionnement budgétaire), avec une marge de +4 038 € — mais cette marge est plus étroite qu'il n'y paraît si le tournage BIOT2 (labos, salles blanches, unités de production) exige finalement un éclairage technique que le cadreur seul ne peut pas absorber. Deux points à verrouiller avant l'envoi : valider auprès de l'Agence que les lieux de tournage BIOT2 sont compatibles avec une lumière naturelle/simple, et rester honnête sur le niveau d'expérience réel de l'équipe en direction de comédiens.
+**Go sous conditions** : viable sur la base du scénario resserré (voir Positionnement budgétaire), avec un kit lumière 3 points désormais posé comme indispensable (200 €/j) et un TJM comédien au plancher conventionnel — marge résultante de **+2 056 €**, assumée en connaissance de cause mais tendue sur plusieurs hypothèses cumulées (aucune marge de manœuvre supplémentaire côté comédien : contrat au minimum légal). Reste vulnérable à deux aléas cumulables : un dispositif technique sur BIOT2 (labos, salles blanches) que le 3 points ne suffirait pas à couvrir, et une ville normande plus éloignée ou un tournage plus long que prévu (déplacement calculé sur 2 nuits minimum, sans connaître encore la ville exacte). Trois points à verrouiller avant l'envoi : valider auprès de l'Agence la nature exacte de l'éclairage nécessaire sur les lieux de tournage BIOT2, obtenir la localisation précise des tournages pour affiner le poste déplacement, et rester honnête sur le niveau d'expérience réel de l'équipe en direction de comédiens.
