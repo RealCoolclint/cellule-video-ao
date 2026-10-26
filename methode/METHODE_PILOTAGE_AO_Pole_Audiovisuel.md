@@ -61,6 +61,23 @@ Sur CYRCE/BIOT2, le premier chiffrage (fondé sur le référentiel des formats c
 
 ---
 
+## Fiches Mission contributeurs (ajout octobre 2026, AO ANFA)
+
+Les 4 livrables s'adressent aux OPS. Mais une réponse gagnante mobilise aussi des expertises précises (créa, réseaux sociaux, audience), et chaque contributeur doit savoir exactement ce qu'on attend de lui, sans se perdre dans les considérations techniques, politiques ou économiques de l'AO. C'est en se dispersant qu'on perd les appels d'offres.
+
+**Principe** : une Fiche Mission d'une page par contributeur, produite juste après la Fiche Synthèse, et envoyée avec un mail court.
+
+**Trame (5 blocs, une page maximum)** :
+1. L'AO en trois lignes — qui est le client, ce qu'il demande, la date de rendu
+2. Le cadre imposé — seulement les contraintes qui touchent la mission du contributeur
+3. Sa mission — ce qu'il doit produire, concrètement
+4. Ce qui ne le concerne pas — dit explicitement, pour qu'il ne s'en charge pas
+5. Son échéance — avec une marge avant la Fiche Réponse
+
+**Règles** : écriture simple, pas de jargon d'AO, pas de copier-coller du cahier des charges. Le contributeur doit pouvoir commencer à travailler après une seule lecture.
+
+---
+
 ## Où vivent les documents
 
 - **Templates, méthode, grille TJM de référence, principes** → capitalisés dans le Cerveau de la Cellule Vidéo (mémoire du projet), pour qu'ils survivent aux AO individuels
@@ -69,6 +86,7 @@ Sur CYRCE/BIOT2, le premier chiffrage (fondé sur le référentiel des formats c
 ## Checklist avant envoi aux OPS
 
 - [ ] Échéance de remise et enveloppe budgétaire confirmées
+- [ ] Une Fiche Mission envoyée à chaque contributeur (créa, RS, audience…)
 - [ ] Interlocuteur commercial/contractuel côté L'Étudiant identifié
 - [ ] Bande passante de la cellule évaluée (Dispo/Tendu/Bouché) et arbitrage interne/prestas posé
 - [ ] Chiffrage fondé sur la bonne grille TJM (formats courts vs fiction/comédiens)

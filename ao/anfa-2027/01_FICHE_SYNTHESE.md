@@ -45,7 +45,7 @@ Des vidéos tournées **sur le terrain**, avec des professionnels et/ou des appr
 
 ## Interlocuteurs
 - **Côté client** : service Communication et promotion des métiers de l'ANFA ; questions via Synapse (concoursexterieurs@anfa-auto.fr)
-- **Côté L'Etudiant** : Emma Tissier (Responsable projet OPS 360), porteuse de la réponse ; diffusion à associer côté RS (à confirmer)
+- **Côté L'Etudiant** : Emma Tissier (Responsable projet OPS 360), porteuse de la réponse ; Martin Pavloff pour le Pôle Vidéo ; **Antoine Paley** sur la partie créative et en backup de Martin ; Lélia et Chloé (RS) pour l'adaptation des formats au média et les chiffres d'audience
 
 ## Risques identifiés
 - ⚠️ **Budget serré pour un volume terrain en région** : 6 vidéos minimum, dont 2 formats longs avec tournage, plus la diffusion, dans 58 k€ HT. Le partage production / médiatisation conditionne tout le reste
@@ -60,7 +60,9 @@ Des vidéos tournées **sur le terrain**, avec des professionnels et/ou des appr
 
 ## Décision & prochaine étape
 - **27/10** : cadrage avec Emma, en particulier le partage du budget entre production et médiatisation
-- **Bande passante 2027** : à évaluer (Dispo / Tendu / Bouché), elle décide de l'arbitrage interne / freelances / mix et donc des coûts
+- **Bande passante 2027 : Dispo.** Le volume demandé est modeste et la cellule pourra prendre de l'avance
+- **Martin absent les 9 et 10/11** : notre part du lot 1 (et nos questions à l'ANFA) bouclée le **vendredi 6/11** ; Antoine Paley en backup pour les retouches de dernière minute, briefé par une série de mails courts
+- Fiche Mission créa à envoyer à Antoine Paley après le cross OPS du 27/10
 - Préparer les questions à poser à l'ANFA avant le 10/11 (droits, géographie des tournages, plateformes visées pour le format long)
 - Puis : Fiche Approche → Budget (Excel) → Fiche Réponse Pôle Vidéo
 
