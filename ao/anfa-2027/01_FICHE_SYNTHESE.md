@@ -54,7 +54,7 @@ Des vidéos tournées **sur le terrain**, avec des professionnels et/ou des appr
 - ⚠️ **Sous-traitance limitée** : les tâches essentielles doivent être faites par le titulaire. Le recours à des freelances (et leur statut : intermittents salariés ou indépendants) doit être déclaré et rester minoritaire
 - ⚠️ **Sponsorisation vers les mineurs** : la publicité ciblée sur profil est interdite pour les mineurs sur les grandes plateformes européennes, et TikTok n'est accessible qu'à partir de 13 ans. La promotion payante vers les 11-17 ans est donc très limitée : notre portée organique est l'atout, à confirmer avec les RS
 - ⚠️ **Format long vertical de 10 à 15 min** : peu courant. Sur YouTube, une vidéo verticale de cette durée n'est pas un Short. Les plateformes cibles et la façon de le monter (chapitres, déclinaisons) sont à penser dès la réponse
-- **IA et RSE (15 points)** : charte IA de L'Etudiant à vérifier ; nos outils internes (Tranquility Suite) sont à déclarer s'ils utilisent de l'IA. Empreinte carbone en kg CO2e à fournir après coup : méthode et outil à choisir
+- **IA et RSE (15 points)** : la charte informatique de L'Etudiant (3/10/2025, annexée au règlement intérieur) contient un article 13 sur l'IA : outils validés seulement, vérification humaine, mention explicite des contenus générés par IA. Tranquility Suite à déclarer si elle utilise de l'IA. Empreinte carbone en kg CO2e : Carbon'Clap d'Ecoprod (gratuit, homologué CNC) proposé pour les tournages
 - **Féminisation** : représenter systématiquement des filles et des femmes, dans un secteur très masculin. Le casting dépend des profils proposés par l'ANFA
 - **Calendrier de rédaction** : réponse à rédiger pendant le lancement YouTube (04/11) et en parallèle d'autres AO
 - Pas d'acte d'engagement ni de bordereau de prix dans le DCE : à vérifier sur Synapse (point déjà relevé par la synthèse interne)
@@ -66,7 +66,7 @@ Des vidéos tournées **sur le terrain**, avec des professionnels et/ou des appr
 - Fiche Mission créa à envoyer à Antoine Paley après le cross OPS du 27/10
 - Préparer les questions à poser à l'ANFA avant le 10/11 (droits, géographie des tournages, plateformes visées pour le format long)
 - **28/10** : Fiche Approche, Budget et Fiche Réponse produits. Recommandation : Go sous conditions. Scénario A (base) = production interne, 18 069 € HT de coût de revient (31 % des 58 k€) ; scénario B (repli mixte si bande passante faible) = tournages en freelances, écriture et post-prod en interne, 25 080 € HT (43 %)
-- Reste à faire avant le 6/11 : question droits à l'ANFA, audiences chiffrées par les RS, volet RSE/IA (mesure carbone, charte IA)
+- Reste à faire côté Pôle Vidéo avant le 6/11 : question droits à l'ANFA (via Juliette Trolonge), volet RSE/IA. Les audiences ne sont pas notre partie (RS / OPS)
 
 ## Liens
 - Fiche Approche : `02_FICHE_APPROCHE.md`

@@ -19,6 +19,6 @@
 
 ---
 
-**Note finale.** Recommandation du Pôle Vidéo : **Go sous conditions**. C'est l'AO le plus aligné avec notre identité, puisqu'il demande un média avec son propre canal vers les 11-18 ans. Trois conditions : (1) produire en interne, avec un repli mixte si la bande passante baisse ; (2) obtenir le droit de diffuser sur nos canaux malgré la cession exclusive (question à l'ANFA avant le 10/11) ; (3) audiences chiffrées par les RS avant le 6/11. Le critère RSE/IA (15 points) reste à documenter : méthode de mesure carbone des tournages et charte IA.
+**Note finale.** Recommandation du Pôle Vidéo : **Go sous conditions**. C'est l'AO le plus aligné avec notre identité, puisqu'il demande un média avec son propre canal vers les 11-18 ans. Trois conditions : (1) produire en interne, avec un repli mixte si la bande passante baisse ; (2) obtenir le droit de diffuser sur nos canaux malgré la cession exclusive (question à l'ANFA avant le 10/11) ; (3) volet RSE/IA : bilan carbone de chaque vague avec Carbon'Clap (Ecoprod, gratuit, homologué CNC, en kg CO2e) et cadre IA de L'Etudiant (article 13 de la charte informatique du 3/10/2025), zéro image générée. Les audiences relèvent des RS et des OPS.
 
 **Post Scriptum — Sources.** Grille TJM : BPU IDFM Grille Coûts Production (SPIAC/COMETES/Malt/CCPA). Taux interne : Référentiel de Coûts Internes Pôle Audiovisuel, validé Direction. Logistique : estimations marché et barème URSSAF 2026. Volumes : CDC §3.1 et réponses de l'ANFA aux questions des candidats (28/10/2026).

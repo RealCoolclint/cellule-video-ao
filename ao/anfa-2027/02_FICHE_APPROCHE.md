@@ -84,11 +84,13 @@ Les coûts unitaires servent de base aux **prix unitaires des bons de commande**
 
 - **Ce qu'on sait faire** : tournages terrain avec des jeunes et des pros, formats verticaux courts, orientation métiers. C'est notre quotidien, nos formats existent, nos canaux touchent la cible.
 - **Ce qu'on n'a jamais fait** : un **long vertical de 10 à 15 min**. La forme chapitrée est notre réponse, mais il faudra une maquette de chapitre pour la convaincre (critère créatif, 25 points).
-- **À sécuriser** : mesurer l'**empreinte carbone** des tournages en kg CO2e (Carbon'Clap d'Ecoprod, à vérifier) et **déclarer nos usages de l'IA** (charte IA de L'Etudiant ; Tranquility Suite si elle en utilise) → critère RSE/IA, 15 points.
+- **Critère RSE/IA (15 points)**, notre part :
+  - **Empreinte carbone des tournages** : bilan de chaque vague avec **Carbon'Clap** (Ecoprod), le calculateur de référence de l'audiovisuel, gratuit et homologué par le CNC, résultat en kg CO2e. On l'appuie sur nos choix de sobriété : équipe de 2, trois vidéos par déplacement, train plutôt que voiture, compression des fichiers livrés.
+  - **IA** : zéro image générée (exigence du lot 1). Cadre de L'Etudiant : **article 13 de la charte informatique** (3/10/2025, annexée au règlement intérieur), avec outils validés par la Direction technique, vérification humaine et mention explicite de tout contenu généré par IA. La Tranquility Suite est à déclarer si elle utilise de l'IA (à vérifier).
 
 ## Recommandation de posture
 
 **Go sous conditions.** C'est l'AO le plus aligné avec ce que nous sommes : un média avec son propre canal vers les 11-18 ans, sur notre cœur éditorial, chez un client national. Conditions avant l'envoi :
 1. **Produire en interne (scénario A)** ; le scénario B (tournages en freelances, post-prod en interne) reste un repli si la bande passante baisse ; il garde de la place pour la diffusion
 2. **Droits** : obtenir de l'ANFA (question avant le 10/11, ou clause dans l'offre) l'autorisation explicite de diffuser les vidéos sur nos canaux malgré la cession exclusive
-3. **Audiences chiffrées** (critère à 25 points) fournies par les RS avant le 6/11
+3. **Volet RSE/IA documenté** (critère à 15 points) : méthode Carbon'Clap et cadre IA de L'Etudiant
