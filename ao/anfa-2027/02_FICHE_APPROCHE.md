@@ -49,8 +49,8 @@ Contraintes de prod : les formations se tournent pendant les périodes de cours,
 
 **Arbitrage : deux scénarios chiffrés dans l'Excel.**
 - **Scénario A, la base de l'offre : l'équipe interne (taux 200 €/j)**, avec un renfort freelance ponctuel sur le son si une vague tombe sur un pic. 18 069 € HT de coût de revient, soit 31 % des 58 k€. Il reste de la place pour la marge **et** une vraie stratégie de diffusion.
-- **Scénario B, le repli : tout en freelances (tarifs marché)**, peu probable mais prêt si la bande passante de la cellule devient faible. 41 230 € HT, soit 71 % des 58 k€. Après une marge plancher de ×1,3, il ne reste qu'environ 4 400 € pour la diffusion. Il garantit la livraison, mais il écrase la médiatisation et la marge : c'est une solution de secours sur une vague, pas une base d'offre.
-- ⚠️ En scénario B, il vaut mieux engager les freelances en **CDDU d'intermittent** (salariés de L'Etudiant pour la mission) plutôt qu'en sous-traitance : le règlement interdit de sous-traiter les tâches essentielles et la totalité d'un lot.
+- **Scénario B, le repli mixte**, peu probable mais prêt si la bande passante de la cellule devient faible : **les tournages passent en freelances** (JRI au tarif de la grille, son / 2e caméra, kit loué), **l'écriture et la post-prod restent en interne**. 25 080 € HT, soit 43 % des 58 k€ (+7 011 € par rapport au scénario A). Après une marge plancher de ×1,3, il reste environ 25 400 € pour la diffusion. Les journées de terrain en région sont ce qui sature la cellule ; la post-prod se planifie plus facilement. Une version tout en freelances a été écartée : 41 230 € HT (71 %), la post-prod aux tarifs marché en faisait les deux tiers.
+- ⚠️ En scénario B, il vaut mieux engager les freelances de tournage en **CDDU d'intermittent** (salariés de L'Etudiant pour la mission) plutôt qu'en sous-traitance : le règlement interdit de sous-traiter les tâches essentielles et la totalité d'un lot.
 
 Interlocuteurs : Martin Pavloff (pilotage prod), Antoine Paley (créa, backup de Martin du 9 au 10/11), Lélia et Chloé (RS) pour la diffusion et les audiences.
 
@@ -65,16 +65,16 @@ Interlocuteurs : Martin Pavloff (pilotage prod), Antoine Paley (créa, backup de
 
 Coûts de revient complets, logistique comprise (voir `03_BUDGET.xlsx`) :
 
-| | Scénario A — interne (base) | Scénario B — freelances (repli) |
+| | Scénario A — interne (base) | Scénario B — mixte (repli) |
 |---|---|---|
-| Format court (unitaire) | 1 659 € | 3 492 € |
-| Format long + 3 déclinaisons (unitaire) | 5 717 € | 13 632 € |
-| **Année minimum (4 courts + 2 longs + 2 vagues)** | **18 069 € HT** | **41 230 € HT** |
-| Part des 58 k€ | 31 % | 71 % |
+| Format court (unitaire) | 1 659 € | 2 243 € |
+| Format long + 3 déclinaisons (unitaire) | 5 717 € | 8 054 € |
+| **Année minimum (4 courts + 2 longs + 2 vagues)** | **18 069 € HT** | **25 080 € HT** |
+| Part des 58 k€ | 31 % | 43 % |
 
 Les coûts unitaires servent de base aux **prix unitaires des bons de commande** (l'ANFA n'impose pas de bordereau ; la synthèse DCE recommande un scénario annuel + des prix unitaires).
 
-⚠️ L'ordre de grandeur annoncé le 26/10 (~35 k€) est **revu à la hausse en scénario B (freelances)** : pilotage à 15 % (relation client à l'année), logistique chiffrée à part et déclinaisons ajoutées.
+⚠️ L'ordre de grandeur annoncé le 26/10 (~35 k€, en freelances) est remplacé par ces deux scénarios : le tout-freelances montait à 41 k€ (pilotage à 15 %, logistique chiffrée à part, déclinaisons ajoutées), d'où le choix d'un repli mixte.
 
 ⚠️ Le scénario A mesure de la masse salariale déjà payée, pas une dépense : il dit ce que la cellule mobilise, pas ce que L'Etudiant achète. La valorisation commerciale (et la marge) reste aux OPS.
 
@@ -89,6 +89,6 @@ Les coûts unitaires servent de base aux **prix unitaires des bons de commande**
 ## Recommandation de posture
 
 **Go sous conditions.** C'est l'AO le plus aligné avec ce que nous sommes : un média avec son propre canal vers les 11-18 ans, sur notre cœur éditorial, chez un client national. Conditions avant l'envoi :
-1. **Produire en interne (scénario A)** ; le scénario B (freelances) reste un repli ponctuel, car sur une année entière la diffusion n'aurait plus de budget
+1. **Produire en interne (scénario A)** ; le scénario B (tournages en freelances, post-prod en interne) reste un repli si la bande passante baisse ; il garde de la place pour la diffusion
 2. **Droits** : obtenir de l'ANFA (question avant le 10/11, ou clause dans l'offre) l'autorisation explicite de diffuser les vidéos sur nos canaux malgré la cession exclusive
 3. **Audiences chiffrées** (critère à 25 points) fournies par les RS avant le 6/11
