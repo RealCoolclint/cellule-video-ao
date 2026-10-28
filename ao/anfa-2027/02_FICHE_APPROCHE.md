@@ -42,8 +42,8 @@ Contraintes de prod : les formations se tournent pendant les périodes de cours,
 **Bande passante 2027 : Dispo.** Le volume (8 journées de tournage en région, 6 vidéos, 6 déclinaisons) est absorbable par la cellule. Deux périodes frottent quand même : fin février (sortie du pic OPS) et mai (montée vers le Bac, YouTube en rythme de croisière).
 
 **Arbitrage : deux scénarios chiffrés dans l'Excel.**
-- **Scénario A, la base de l'offre : l'équipe interne (taux 200 €/j)**, avec un renfort freelance ponctuel sur le son si un tournage tombe sur un pic. 21 363 € HT de coût de revient, déplacements compris, soit 37 % des 58 k€. Il reste de la place pour la marge **et** une vraie stratégie de diffusion.
-- **Scénario B, le repli mixte**, peu probable mais prêt si la bande passante de la cellule devient faible : **les tournages passent en freelances** (JRI au tarif de la grille, son / 2e caméra, kit loué), **l'écriture et la post-prod restent en interne**. 30 711 € HT, soit 53 % des 58 k€ (+9 348 € par rapport au scénario A). Après une marge plancher de ×1,3, il reste environ 18 100 € pour la diffusion. Les journées de terrain en région sont ce qui sature la cellule ; la post-prod se planifie plus facilement. Une version tout en freelances a été écartée : 41 230 € HT (71 %), la post-prod aux tarifs marché en faisait les deux tiers.
+- **Scénario A, la base de l'offre : l'équipe interne (taux 200 €/j)**, avec un renfort freelance ponctuel sur le son si un tournage tombe sur un pic. 21 584 € HT de coût de revient, déplacements compris, soit 37 % des 58 k€. Il reste de la place pour la marge **et** une vraie stratégie de diffusion.
+- **Scénario B, le repli mixte**, peu probable mais prêt si la bande passante de la cellule devient faible : **les tournages passent en freelances** (JRI au tarif de la grille, son / 2e caméra, kit loué), **l'écriture et la post-prod restent en interne**. 30 932 € HT, soit 53 % des 58 k€ (+9 348 € par rapport au scénario A). Après une marge plancher de ×1,3, il reste environ 17 800 € pour la diffusion. Les journées de terrain en région sont ce qui sature la cellule ; la post-prod se planifie plus facilement. Une version tout en freelances a été écartée : 41 230 € HT (71 %), la post-prod aux tarifs marché en faisait les deux tiers.
 - ⚠️ En scénario B, il vaut mieux engager les freelances de tournage en **CDDU d'intermittent** (salariés de L'Etudiant pour la mission) plutôt qu'en sous-traitance : le règlement interdit de sous-traiter les tâches essentielles et la totalité d'un lot.
 
 Interlocuteurs : Martin Pavloff (pilotage prod), Antoine Paley (créa, backup de Martin du 9 au 10/11), Lélia et Chloé (RS) pour la diffusion et les audiences.
@@ -61,18 +61,18 @@ Coûts de revient complets, déplacement compris dans chaque vidéo (voir `03_BU
 
 | | Scénario A — interne (base) | Scénario B — mixte (repli) |
 |---|---|---|
-| Format court (unitaire) | 2 294 € | 3 462 € |
-| Format long + 3 déclinaisons (unitaire) | 6 095 € | 8 432 € |
-| **Année minimum (4 courts + 2 longs)** | **21 363 € HT** | **30 711 € HT** |
+| Format court (unitaire) | 2 330 € | 3 499 € |
+| Format long + 3 déclinaisons (unitaire) | 6 131 € | 8 468 € |
+| **Année minimum (4 courts + 2 longs)** | **21 584 € HT** | **30 932 € HT** |
 | Part des 58 k€ | 37 % | 53 % |
 
-Les coûts unitaires servent de base aux **prix unitaires des bons de commande** (l'ANFA n'impose pas de bordereau ; la synthèse DCE recommande un scénario annuel + des prix unitaires). Le chiffrage est prudent : chaque vidéo porte son propre déplacement (5 250 € sur l'année). Les tournages groupés sur un même site font baisser le coût réel.
+Les coûts unitaires servent de base aux **prix unitaires des bons de commande** (l'ANFA n'impose pas de bordereau ; la synthèse DCE recommande un scénario annuel + des prix unitaires). Le chiffrage est prudent : chaque vidéo porte son propre déplacement (5 471 € sur l'année). Les tournages groupés sur un même site font baisser le coût réel.
 
 ⚠️ L'ordre de grandeur annoncé le 26/10 (~35 k€, en freelances) est remplacé par ces deux scénarios : le tout-freelances montait à 41 k€ (pilotage à 15 %, déplacements chiffrés, déclinaisons ajoutées), d'où le choix d'un repli mixte.
 
 ⚠️ Le scénario A mesure de la masse salariale déjà payée, pas une dépense : il dit ce que la cellule mobilise, pas ce que L'Etudiant achète. La valorisation commerciale (et la marge) reste aux OPS.
 
-**Partage du budget** : selon la marge que retiennent les OPS (repères BPU de ×1,3 à ×1,8), le scénario A laisse entre 20 et 30 k€ pour la médiatisation. Les achats médias doivent rester **dans** les 58 k€ (confirmé par l'ANFA le 28/10), et la pub ciblée vers les mineurs est très restreinte. On recommande donc de miser d'abord sur notre **portée organique** (RS), et de garder l'achat média pour les prescripteurs (parents, enseignants), à arbitrer avec Lélia.
+**Partage du budget** : selon la marge que retiennent les OPS (repères BPU de ×1,3 à ×1,8), le scénario A laisse entre 19 et 30 k€ pour la médiatisation. Les achats médias doivent rester **dans** les 58 k€ (confirmé par l'ANFA le 28/10), et la pub ciblée vers les mineurs est très restreinte. On recommande donc de miser d'abord sur notre **portée organique** (RS), et de garder l'achat média pour les prescripteurs (parents, enseignants), à arbitrer avec Lélia.
 
 ## Ce qu'on sait faire / ce qu'on ne sait pas encore
 

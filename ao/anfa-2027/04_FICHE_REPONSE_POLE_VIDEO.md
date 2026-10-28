@@ -15,7 +15,7 @@
 
 **Bloc 4 — Pilotage.** Un référent unique de chaque côté. Lancement en janvier (calage sur les campagnes ANFA, sujets, indicateurs), un point après chaque livraison, un bilan annuel qui sert à la décision de reconduction. Vigilances : autorisations de droit à l'image des apprentis mineurs, profils féminins à exiger dès le lancement, tournages en CFA hors vacances scolaires.
 
-**Bloc 5 — Coûts.** Coût de revient annuel du minimum, déplacements compris dans chaque vidéo : **scénario A (base, production interne) : 21 363 € HT** (37 % des 58 k€) ; scénario B (repli mixte, tournages en freelances) : 30 711 € HT (53 %). Coûts unitaires pour les bons de commande : **court 2 294 €, long + 3 déclinaisons 6 095 €** en interne (3 462 € et 8 432 € en scénario mixte). Chiffrage prudent : les tournages groupés sur un même site font baisser le coût réel. Détail : `03_BUDGET.xlsx`. Aux OPS d'ajouter la marge et d'arbitrer le reste du budget pour la médiatisation, achats médias compris (ils sont inclus dans les 58 k€).
+**Bloc 5 — Coûts.** Coût de revient annuel du minimum, déplacements compris dans chaque vidéo : **scénario A (base, production interne) : 21 584 € HT** (37 % des 58 k€) ; scénario B (repli mixte, tournages en freelances) : 30 932 € HT (53 %). Coûts unitaires pour les bons de commande : **court 2 330 €, long + 3 déclinaisons 6 131 €** en interne (3 499 € et 8 468 € en scénario mixte). Chiffrage prudent : les tournages groupés sur un même site font baisser le coût réel. Détail : `03_BUDGET.xlsx`. Aux OPS d'ajouter la marge et d'arbitrer le reste du budget pour la médiatisation, achats médias compris (ils sont inclus dans les 58 k€).
 
 ---
 
