@@ -11,7 +11,7 @@
 - **Secteur** : orientation vers les métiers de l'« aval » de l'automobile (commerce, réparation, contrôle technique, location, auto-école, stationnement), pour quatre véhicules : voiture, camion, moto, vélo. Hors périmètre : design, ingénierie, conduite de camion ou de bus
 
 ## Statut
-**Analyse** — DCE lu, première lecture production faite. Réunion de cadrage avec Emma Tissier (OPS 360) le 27/10.
+**En rédaction** — 4 livrables posés au 28/10 (Synthèse, Approche, Budget, Réponse Pôle Vidéo). Partage production / médiatisation présenté au cross OPS du 27/10 et accueilli favorablement par Emma Tissier. Réponses de l'ANFA aux questions des candidats reçues le 28/10 (volume, mutualisation, achats médias, canaux).
 
 ## Échéance de remise
 **Lundi 16 novembre 2026, 16h00**, dépôt électronique sur Synapse Entreprises. Questions au client : **mardi 10 novembre au plus tard**. Offre valable 90 jours.
@@ -27,6 +27,7 @@ Des vidéos tournées **sur le terrain**, avec des professionnels et/ou des appr
 - **Formats courts** : verticaux, immersifs, spontanés, pensés pour la viralité, 60 à 120 s — **au moins 2 vidéos métiers + 2 vidéos formations par an**
 - **Formats longs** : **verticaux eux aussi**, immersifs, 10 à 15 min — **2 vidéos thématiques par an**
 - Formats innovants bienvenus, en plus de ces minima
+- **Confirmé par l'ANFA le 28/10** : 6 vidéos minimum par an (4 courts + 2 longs) ; plusieurs vidéos par journée de tournage acceptées ; achats médias inclus dans les 58 k€ ; canaux de diffusion propres exigés (médias partenaires en plus possibles)
 - **Diffusion sur nos propres canaux**, avec une stratégie de promotion pour maximiser l'audience (c'est un prérequis du lot)
 
 ## Livrables attendus
@@ -64,9 +65,10 @@ Des vidéos tournées **sur le terrain**, avec des professionnels et/ou des appr
 - **Martin absent les 9 et 10/11** : notre part du lot 1 (et nos questions à l'ANFA) bouclée le **vendredi 6/11** ; Antoine Paley en backup pour les retouches de dernière minute, briefé par une série de mails courts
 - Fiche Mission créa à envoyer à Antoine Paley après le cross OPS du 27/10
 - Préparer les questions à poser à l'ANFA avant le 10/11 (droits, géographie des tournages, plateformes visées pour le format long)
-- Puis : Fiche Approche → Budget (Excel) → Fiche Réponse Pôle Vidéo
+- **28/10** : Fiche Approche, Budget et Fiche Réponse produits. Recommandation : Go sous conditions, production interne (18 069 € HT de coût de revient, soit 31 % des 58 k€, contre 41 783 € HT tout en freelances)
+- Reste à faire avant le 6/11 : question droits à l'ANFA, audiences chiffrées par les RS, volet RSE/IA (mesure carbone, charte IA)
 
 ## Liens
-- Fiche Approche : `02_FICHE_APPROCHE.md` (à produire)
-- Budget : `03_BUDGET.xlsx` (à produire)
-- Fiche Réponse Pôle Vidéo : `04_FICHE_REPONSE_POLE_VIDEO.md` (à produire)
+- Fiche Approche : `02_FICHE_APPROCHE.md`
+- Budget : `03_BUDGET.xlsx`
+- Fiche Réponse Pôle Vidéo : `04_FICHE_REPONSE_POLE_VIDEO.md`
