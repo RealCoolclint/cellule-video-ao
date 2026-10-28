@@ -86,7 +86,7 @@ Les coûts unitaires servent de base aux **prix unitaires des bons de commande**
 - **Ce qu'on n'a jamais fait** : un **long vertical de 10 à 15 min**. La forme chapitrée est notre réponse, mais il faudra une maquette de chapitre pour la convaincre (critère créatif, 25 points).
 - **Critère RSE/IA (15 points)**, notre part :
   - **Empreinte carbone des tournages** : bilan de chaque vague avec **Carbon'Clap** (Ecoprod), le calculateur de référence de l'audiovisuel, gratuit et homologué par le CNC, résultat en kg CO2e. On l'appuie sur nos choix de sobriété : équipe de 2, trois vidéos par déplacement, train plutôt que voiture, compression des fichiers livrés.
-  - **IA** : zéro image générée (exigence du lot 1). Cadre de L'Etudiant : **article 13 de la charte informatique** (3/10/2025, annexée au règlement intérieur), avec outils validés par la Direction technique, vérification humaine et mention explicite de tout contenu généré par IA. La Tranquility Suite est à déclarer si elle utilise de l'IA (à vérifier).
+  - **IA** : zéro image générée (exigence du lot 1). Cadre de L'Etudiant : **article 13 de la charte informatique** (3/10/2025, annexée au règlement intérieur), avec outils validés par la Direction technique, vérification humaine et mention explicite de tout contenu généré par IA. Nos outils internes d'automatisation (Tranquility Suite) ont été développés avec l'aide de l'IA mais n'en embarquent aucune : aucun contenu n'est traité ni généré par IA dans notre chaîne de production.
 
 ## Recommandation de posture
 
