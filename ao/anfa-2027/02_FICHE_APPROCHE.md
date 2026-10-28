@@ -34,7 +34,7 @@ Le vrai enjeu n'est pas la prouesse technique, c'est **la justesse** : filmer de
 Séquencement d'une vague, étapes de validation client comprises :
 1. **Choix des sujets et des sites avec l'ANFA** (elle propose les profils et les lieux) → validation ANFA
 2. **Préprod** : brief des intervenants, autorisations de droit à l'image (beaucoup d'apprentis sont mineurs : autorisations parentales), feuille de route → validation ANFA de la feuille de route
-3. **Tournage** : équipe légère de 2 personnes (réal-JRI + son / 2e caméra)
+3. **Tournage** : équipe légère de 2 personnes (JRI + son / 2e caméra)
 4. **Post-prod** : montage vertical, habillage aux couleurs de Métiers Services Auto, sous-titrage
 5. **V1 → retours ANFA → V2 finale** : 2 allers-retours inclus par vidéo
 6. **Livraison** des fichiers + diffusion sur nos canaux (RS)
@@ -49,7 +49,7 @@ Contraintes de prod : les formations se tournent pendant les périodes de cours,
 
 **Arbitrage : deux scénarios chiffrés dans l'Excel.**
 - **Scénario A, la base de l'offre : l'équipe interne (taux 200 €/j)**, avec un renfort freelance ponctuel sur le son si une vague tombe sur un pic. 18 069 € HT de coût de revient, soit 31 % des 58 k€. Il reste de la place pour la marge **et** une vraie stratégie de diffusion.
-- **Scénario B, le repli : tout en freelances (tarifs marché)**, peu probable mais prêt si la bande passante de la cellule devient faible. 41 783 € HT, soit 72 % des 58 k€. Après une marge plancher de ×1,3, il ne reste qu'environ 3 700 € pour la diffusion. Il garantit la livraison, mais il écrase la médiatisation et la marge : c'est une solution de secours sur une vague, pas une base d'offre.
+- **Scénario B, le repli : tout en freelances (tarifs marché)**, peu probable mais prêt si la bande passante de la cellule devient faible. 41 230 € HT, soit 71 % des 58 k€. Après une marge plancher de ×1,3, il ne reste qu'environ 4 400 € pour la diffusion. Il garantit la livraison, mais il écrase la médiatisation et la marge : c'est une solution de secours sur une vague, pas une base d'offre.
 - ⚠️ En scénario B, il vaut mieux engager les freelances en **CDDU d'intermittent** (salariés de L'Etudiant pour la mission) plutôt qu'en sous-traitance : le règlement interdit de sous-traiter les tâches essentielles et la totalité d'un lot.
 
 Interlocuteurs : Martin Pavloff (pilotage prod), Antoine Paley (créa, backup de Martin du 9 au 10/11), Lélia et Chloé (RS) pour la diffusion et les audiences.
@@ -67,10 +67,10 @@ Coûts de revient complets, logistique comprise (voir `03_BUDGET.xlsx`) :
 
 | | Scénario A — interne (base) | Scénario B — freelances (repli) |
 |---|---|---|
-| Format court (unitaire) | 1 659 € | 3 522 € |
-| Format long + 3 déclinaisons (unitaire) | 5 717 € | 13 847 € |
-| **Année minimum (4 courts + 2 longs + 2 vagues)** | **18 069 € HT** | **41 783 € HT** |
-| Part des 58 k€ | 31 % | 72 % |
+| Format court (unitaire) | 1 659 € | 3 492 € |
+| Format long + 3 déclinaisons (unitaire) | 5 717 € | 13 632 € |
+| **Année minimum (4 courts + 2 longs + 2 vagues)** | **18 069 € HT** | **41 230 € HT** |
+| Part des 58 k€ | 31 % | 71 % |
 
 Les coûts unitaires servent de base aux **prix unitaires des bons de commande** (l'ANFA n'impose pas de bordereau ; la synthèse DCE recommande un scénario annuel + des prix unitaires).
 
