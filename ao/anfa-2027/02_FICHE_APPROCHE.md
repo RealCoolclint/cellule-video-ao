@@ -47,9 +47,10 @@ Contraintes de prod : les formations se tournent pendant les périodes de cours,
 
 **Bande passante 2027 : Dispo.** Le volume (6 tournages-jours de terrain, 6 vidéos, 6 déclinaisons) est absorbable par la cellule. Deux fenêtres frottent quand même : fin février (sortie du pic OPS) et mai (montée vers le Bac, YouTube en rythme de croisière).
 
-**Arbitrage proposé : production en interne (scénario B), avec un renfort freelance ponctuel** sur le son en tournage si une vague tombe sur un pic. L'Excel chiffre les deux bornes :
-- **Scénario A, tout en freelances (tarifs marché)** : 41 783 € HT de coût de revient, soit 72 % des 58 k€. Après une marge plancher de ×1,3, il ne reste qu'environ 3 700 € pour la diffusion. Ça ne tient pas.
-- **Scénario B, équipe interne (taux 200 €/j)** : 18 069 € HT, soit 31 % des 58 k€. Il reste de la place pour la marge **et** une vraie stratégie de diffusion.
+**Arbitrage : deux scénarios chiffrés dans l'Excel.**
+- **Scénario A, la base de l'offre : l'équipe interne (taux 200 €/j)**, avec un renfort freelance ponctuel sur le son si une vague tombe sur un pic. 18 069 € HT de coût de revient, soit 31 % des 58 k€. Il reste de la place pour la marge **et** une vraie stratégie de diffusion.
+- **Scénario B, le repli : tout en freelances (tarifs marché)**, peu probable mais prêt si la bande passante de la cellule devient faible. 41 783 € HT, soit 72 % des 58 k€. Après une marge plancher de ×1,3, il ne reste qu'environ 3 700 € pour la diffusion. Il garantit la livraison, mais il écrase la médiatisation et la marge : c'est une solution de secours sur une vague, pas une base d'offre.
+- ⚠️ En scénario B, il vaut mieux engager les freelances en **CDDU d'intermittent** (salariés de L'Etudiant pour la mission) plutôt qu'en sous-traitance : le règlement interdit de sous-traiter les tâches essentielles et la totalité d'un lot.
 
 Interlocuteurs : Martin Pavloff (pilotage prod), Antoine Paley (créa, backup de Martin du 9 au 10/11), Lélia et Chloé (RS) pour la diffusion et les audiences.
 
@@ -64,20 +65,20 @@ Interlocuteurs : Martin Pavloff (pilotage prod), Antoine Paley (créa, backup de
 
 Coûts de revient complets, logistique comprise (voir `03_BUDGET.xlsx`) :
 
-| | Scénario A (freelances) | Scénario B (interne) |
+| | Scénario A — interne (base) | Scénario B — freelances (repli) |
 |---|---|---|
-| Format court (unitaire) | 3 522 € | 1 659 € |
-| Format long + 3 déclinaisons (unitaire) | 13 847 € | 5 717 € |
-| **Année minimum (4 courts + 2 longs + 2 vagues)** | **41 783 € HT** | **18 069 € HT** |
-| Part des 58 k€ | 72 % | 31 % |
+| Format court (unitaire) | 1 659 € | 3 522 € |
+| Format long + 3 déclinaisons (unitaire) | 5 717 € | 13 847 € |
+| **Année minimum (4 courts + 2 longs + 2 vagues)** | **18 069 € HT** | **41 783 € HT** |
+| Part des 58 k€ | 31 % | 72 % |
 
 Les coûts unitaires servent de base aux **prix unitaires des bons de commande** (l'ANFA n'impose pas de bordereau ; la synthèse DCE recommande un scénario annuel + des prix unitaires).
 
-⚠️ L'ordre de grandeur annoncé le 26/10 (~35 k€) est **revu à la hausse en scénario A** : pilotage à 15 % (relation client à l'année), logistique chiffrée à part et déclinaisons ajoutées.
+⚠️ L'ordre de grandeur annoncé le 26/10 (~35 k€) est **revu à la hausse en scénario B (freelances)** : pilotage à 15 % (relation client à l'année), logistique chiffrée à part et déclinaisons ajoutées.
 
-⚠️ Le scénario B mesure de la masse salariale déjà payée, pas une dépense : il dit ce que la cellule mobilise, pas ce que L'Etudiant achète. La valorisation commerciale (et la marge) reste aux OPS.
+⚠️ Le scénario A mesure de la masse salariale déjà payée, pas une dépense : il dit ce que la cellule mobilise, pas ce que L'Etudiant achète. La valorisation commerciale (et la marge) reste aux OPS.
 
-**Partage du budget** : selon la marge que retiennent les OPS (repères BPU de ×1,3 à ×1,8), le scénario B laisse entre 25 et 35 k€ pour la médiatisation. Les achats médias doivent rester **dans** les 58 k€ (confirmé par l'ANFA le 28/10), et la pub ciblée vers les mineurs est très restreinte. On recommande donc de miser d'abord sur notre **portée organique** (RS), et de garder l'achat média pour les prescripteurs (parents, enseignants), à arbitrer avec Lélia.
+**Partage du budget** : selon la marge que retiennent les OPS (repères BPU de ×1,3 à ×1,8), le scénario A laisse entre 25 et 35 k€ pour la médiatisation. Les achats médias doivent rester **dans** les 58 k€ (confirmé par l'ANFA le 28/10), et la pub ciblée vers les mineurs est très restreinte. On recommande donc de miser d'abord sur notre **portée organique** (RS), et de garder l'achat média pour les prescripteurs (parents, enseignants), à arbitrer avec Lélia.
 
 ## Ce qu'on sait faire / ce qu'on ne sait pas encore
 
@@ -88,6 +89,6 @@ Les coûts unitaires servent de base aux **prix unitaires des bons de commande**
 ## Recommandation de posture
 
 **Go sous conditions.** C'est l'AO le plus aligné avec ce que nous sommes : un média avec son propre canal vers les 11-18 ans, sur notre cœur éditorial, chez un client national. Conditions avant l'envoi :
-1. **Produire en interne (scénario B)** : en freelances, la diffusion n'a plus de budget
+1. **Produire en interne (scénario A)** ; le scénario B (freelances) reste un repli ponctuel, car sur une année entière la diffusion n'aurait plus de budget
 2. **Droits** : obtenir de l'ANFA (question avant le 10/11, ou clause dans l'offre) l'autorisation explicite de diffuser les vidéos sur nos canaux malgré la cession exclusive
 3. **Audiences chiffrées** (critère à 25 points) fournies par les RS avant le 6/11

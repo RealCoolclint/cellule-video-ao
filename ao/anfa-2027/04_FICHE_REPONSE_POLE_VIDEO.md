@@ -11,11 +11,11 @@
 
 **Bloc 2 — Méthodologie.** Deux vagues de tournage en région (fin février–mars, puis mai 2027), de 3 jours chacune, qui servent chacune un court métier, un court formation et un long. Mutualisation acceptée par l'ANFA, ce qui veut dire moins de déplacements (argument RSE) et un coût maîtrisé. Les courts sont dans notre grammaire RS ; le long est un format chapitré, découpable en extraits. Validation ANFA aux étapes clés : sujets, feuille de route, V1. 2 allers-retours inclus par vidéo.
 
-**Bloc 3 — Équipe.** Production par l'équipe interne de la cellule vidéo (bande passante 2027 : Dispo), avec un renfort freelance ponctuel sur le son si une vague tombe sur un pic d'activité. Équipe de tournage légère de 2 personnes (réal-JRI + son / 2e caméra). Martin Pavloff pilote la production ; Antoine Paley porte la créa.
+**Bloc 3 — Équipe.** Production par l'équipe interne de la cellule vidéo (bande passante 2027 : Dispo), avec un renfort freelance ponctuel sur le son si une vague tombe sur un pic d'activité. Repli chiffré si la bande passante devient faible : production en freelances (engagés en CDDU d'intermittent plutôt qu'en sous-traitance, que le règlement limite). Équipe de tournage légère de 2 personnes (réal-JRI + son / 2e caméra). Martin Pavloff pilote la production ; Antoine Paley porte la créa.
 
 **Bloc 4 — Pilotage.** Un référent unique de chaque côté. Lancement en janvier (calage sur les campagnes ANFA, sujets, indicateurs), un point après chaque vague, un bilan annuel qui sert à la décision de reconduction. Vigilances : autorisations de droit à l'image des apprentis mineurs, profils féminins à exiger dès le lancement, tournages en CFA hors vacances scolaires.
 
-**Bloc 5 — Coûts.** Coût de revient annuel du minimum (logistique comprise) : **18 069 € HT en production interne** (31 % des 58 k€), contre 41 783 € HT tout en freelances (72 %). Coûts unitaires pour les bons de commande : **court 1 659 €, long + 3 déclinaisons 5 717 €** en interne (3 522 € et 13 847 € en freelances). Détail : `03_BUDGET.xlsx`. Aux OPS d'ajouter la marge et d'arbitrer le reste du budget pour la médiatisation, achats médias compris (ils sont inclus dans les 58 k€).
+**Bloc 5 — Coûts.** Coût de revient annuel du minimum (logistique comprise) : **scénario A (base, production interne) : 18 069 € HT** (31 % des 58 k€) ; scénario B (repli, tout en freelances) : 41 783 € HT (72 %). Coûts unitaires pour les bons de commande : **court 1 659 €, long + 3 déclinaisons 5 717 €** en interne (3 522 € et 13 847 € en freelances). Détail : `03_BUDGET.xlsx`. Aux OPS d'ajouter la marge et d'arbitrer le reste du budget pour la médiatisation, achats médias compris (ils sont inclus dans les 58 k€).
 
 ---
 

@@ -65,7 +65,7 @@ Des vidéos tournées **sur le terrain**, avec des professionnels et/ou des appr
 - **Martin absent les 9 et 10/11** : notre part du lot 1 (et nos questions à l'ANFA) bouclée le **vendredi 6/11** ; Antoine Paley en backup pour les retouches de dernière minute, briefé par une série de mails courts
 - Fiche Mission créa à envoyer à Antoine Paley après le cross OPS du 27/10
 - Préparer les questions à poser à l'ANFA avant le 10/11 (droits, géographie des tournages, plateformes visées pour le format long)
-- **28/10** : Fiche Approche, Budget et Fiche Réponse produits. Recommandation : Go sous conditions, production interne (18 069 € HT de coût de revient, soit 31 % des 58 k€, contre 41 783 € HT tout en freelances)
+- **28/10** : Fiche Approche, Budget et Fiche Réponse produits. Recommandation : Go sous conditions. Scénario A (base) = production interne, 18 069 € HT de coût de revient (31 % des 58 k€) ; scénario B (repli si bande passante faible) = tout en freelances, 41 783 € HT (72 %)
 - Reste à faire avant le 6/11 : question droits à l'ANFA, audiences chiffrées par les RS, volet RSE/IA (mesure carbone, charte IA)
 
 ## Liens
