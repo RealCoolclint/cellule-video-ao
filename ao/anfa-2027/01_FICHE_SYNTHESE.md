@@ -11,7 +11,11 @@
 - **Secteur** : orientation vers les métiers de l'« aval » de l'automobile (commerce, réparation, contrôle technique, location, auto-école, stationnement), pour quatre véhicules : voiture, camion, moto, vélo. Hors périmètre : design, ingénierie, conduite de camion ou de bus
 
 ## Statut
-**En rédaction** — 4 livrables posés au 28/10 (Synthèse, Approche, Budget, Réponse Pôle Vidéo). Partage production / médiatisation présenté au cross OPS du 27/10 et accueilli favorablement par Emma Tissier. Réponses de l'ANFA aux questions des candidats reçues le 28/10 (volume, mutualisation, achats médias, canaux).
+**Budget transmis aux OPS (30/10)** — Excel envoyé seul à Emma Tissier, version « coûts » (sans repère de marge). Scénario A interne : 21 584 € HT/an (37 % des 58 k€) ; scénario B avec freelances : 30 932 € HT (53 %). 4 livrables posés (Synthèse, Approche, Budget, Réponse Pôle Vidéo). Réponses de l'ANFA aux questions des candidats du 28/10 intégrées (volume, mutualisation, achats médias, canaux).
+
+**En suspens (sans impact attendu sur les coûts)** :
+- Format long vertical : question posée par Juliette Trolonge sur la plateforme le 30/10 (horizontal recevable ?)
+- Droits de diffusion (cession exclusive vs diffusion sur nos canaux) et droit à l'image des apprentis mineurs : soumis par Juliette au service juridique (Sébastien Petit) le 30/10
 
 ## Échéance de remise
 **Lundi 16 novembre 2026, 16h00**, dépôt électronique sur Synapse Entreprises. Questions au client : **mardi 10 novembre au plus tard**. Offre valable 90 jours.
